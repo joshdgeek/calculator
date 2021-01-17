@@ -19,6 +19,7 @@ body{
     background-color: black;
     max-width: 400px;
     border:1px solid white; 
+    max-height:600px;
 }
 
 #screen{
